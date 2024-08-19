@@ -1,1 +1,1 @@
-# Power-Consumption-Prediction-with-Load-Disaggregation
+# Power Consumption Prediction with Load Disaggregation
